@@ -1,0 +1,1 @@
+print "you are a stinky moose"
